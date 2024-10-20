@@ -1,5 +1,5 @@
 # ivR's Mods
-Hello everyone ~ This is the repository of ivR's Mods. If there are any bugs, please submit issues to help make this series of mods better. If you submit a BUG, and this BUG does exist, you will appear on the Bug Removal Experts list below ~.
+Hello everyone ~ This is the repository of ivR's Mods. If there are any bugs, please submit issues to help make this series of mods better. If you submit a BUG, and this BUG does exist, you will appear on the Bug Removal Experts list below ~. If you have any good suggestions for improvements, request new features, or even request new mods, you can submit an issue ~
 
 # ⛑️ Bug Removal Experts 🚫🪲
 ~ There's nothing here ~
