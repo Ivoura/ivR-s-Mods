@@ -1,2 +1,2 @@
 # ivR's Mods
-ivR's server mods for Fabric Loader. Official github update release repository.
+Hello everyone ~ This is the repository of ivR's Mods. If there are any bugs, please submit issues to help make this series of mods better.
